@@ -3,7 +3,7 @@
         <link rel="stylesheet" href="mystyle.css">
         <title>Day4 schdule</title>
 <body>
-        <nav>We are happy to reporting</nav>
+        <h3>We are happy to reporting</h3>
         <div>
              <h3>Form UI</h3>
                 <ol>
