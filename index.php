@@ -3,7 +3,11 @@
 		<link rel="stylesheet" href="mystyle.css">
 	</head>
 <body>
-
+<header>
+<h1>
+	Welcome
+</h1>
+</header>
 	<div class="outer">
 		<nav>
 			<h1>My Training</h1>
